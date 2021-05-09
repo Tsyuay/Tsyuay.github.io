@@ -1,0 +1,4 @@
+User-agent: ia_archiver
+Disallow: /
+Disallow: /collapseblast/admin
+Disallow: /collapseblast/avatars/SarventeWingsAnim.swf
