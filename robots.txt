@@ -1,4 +1,4 @@
 User-agent: ia_archiver
-Disallow: /
 Disallow: /collapseblast/admin
-Disallow: /collapseblast/avatars/SarventeWingsAnim.swf
+Disallow: /collapseblast/assets/characters/SkyHairAnim.swf
+Disallow: /collapseblast/assets/characters/SkyBodyAnim.swf
