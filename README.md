@@ -1,3 +1,3 @@
 # Tsyuay.github.io
 
-This website puts online games hosted on GitHub.
+My website were i usually put my new HTML5 fan games
