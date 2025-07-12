@@ -1,6 +1,7 @@
-## Tsyuay's Website
+## Tsyuay's.. No! PANDA FAKE's Website
 
-This is some game hosting page that hosts online games I have made. Feel free to send me a copyright claim to remove a game.
+Congratulations! You found my obscure website, now feel free to see my old garbage games I created when I started using GDevelop...
+![](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyeXluZ2pwdnJkYXJ6bnBwcnVrcHV0cmVxZWQ4MGhheGxyZzBvNHh5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RjhzlyOGDe0Ryl50xY/giphy.gif)
 
 ### Games
 [BirdPairs](birdpairs/index.html) [BowlingBlitz](bowlingblitz/index.html) [ZatannaJump](zatannajump/index.html) [NewYearAtTheRescue (delayed, sorry!)](newyearrescue_2021/index.html)
