@@ -5,6 +5,8 @@ Congratulations! You found my obscure website, now feel free to see my old garba
 
 Why I still have those here lol?
 
+But.. Hey! Thanks to those, Monster World: Back to the Gardens exist! And thanks to DCSHG, of course, isn't that crazy?
+
 ### Games
 [BirdPairs](birdpairs/index.html) [BowlingBlitz](bowlingblitz/index.html) [ZatannaJump](zatannajump/index.html) [NewYearAtTheRescue (delayed, sorry!)](newyearrescue_2021/index.html)
 [Download them!](https://www.mediafire.com/file/v2jewwj8khbhn31/Panda_Fake%2527s_games.zip/file)
